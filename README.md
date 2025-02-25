@@ -2,7 +2,7 @@
 
 #### My third app with Swift and SwiftUI, following Paul Hudson's '100 Days of SwiftUI'. I followed the initial tutorial before completing challenges in my own time.
 
-<img src="https://github.com/user-attachments/assets/8a8ba841-9759-48e5-8ac8-be26135009b4" width="700" height="700">
+<img src="https://github.com/user-attachments/assets/1e0b231a-c615-447d-8030-76d60469ce15" width="700" height="700">
 
 ## Challenges
 1. Add a @State property to store the user’s score, modify it when they get an answer right or wrong, then display it in the alert and in the score label.
